@@ -47,7 +47,7 @@ def generate_suggestion():
 	"""
 
 	# Variables instanciation
-	dinner_list = ["Lundu_midi", "Lundi_soir",
+	dinner_list = ["Lundi_midi", "Lundi_soir",
 				   "Mardi_midi", "Mardi_soir",
 				   "Mecredi_midi", "Mercredi_soir",
 				   "Jeudi_midi", "Jeudi_soir",
