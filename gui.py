@@ -13,6 +13,9 @@ from Tkinter import StringVar
 ## -> update index of receipe with receipes files
 ## -> web crawler to create new receipes
 ## -> receipe manager
+## -> Add image for suggestions
+## -> Fixe thz size of the window
+## -> Replace the button
 
 
 ## Importation
