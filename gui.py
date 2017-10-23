@@ -16,6 +16,7 @@ from Tkinter import StringVar
 ## -> Add image for suggestions
 ## -> Fixe thz size of the window
 ## -> Replace the button
+## -> Write the list of course
 
 
 ## Importation
