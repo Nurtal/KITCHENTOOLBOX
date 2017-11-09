@@ -16,8 +16,9 @@ from Tkinter import StringVar
 ## -> Add image for suggestions
 ## -> Fixe thz size of the window
 ## -> Replace the button
-## -> Write the list of course
-
+## [DONE]-> Write the list of course
+## [DONE]-> fill receipe folder with exemple data
+## [DONE]-> update index file format : plate_name,file_name
 
 ## Importation
 import planner
@@ -65,12 +66,15 @@ def update_suggestion_grid():
 		label_sunday_2.set(str(suggestions["Dimanche_soir"]))
 
 
-def test_check_box():
+def write_list_of_ingredients_wrapper():
 	"""
 	just for test
 	"""
-
-	print check_state.get()
+	if(check_state.get() == 1):
+		planner.write_list_of_ingredients()
+		print "Tardis"
+	else:
+		print "Falcon"
 
 
 fenetre = Tk()
@@ -201,7 +205,7 @@ bouton=Button(fenetre, text="Run", command=update_suggestion_grid)
 bouton.pack()
 
 ## Bouton test
-bouton=Button(fenetre, text="Test", command=test_check_box)
+bouton=Button(fenetre, text="Test", command=write_list_of_ingredients_wrapper)
 bouton.pack()
 
 

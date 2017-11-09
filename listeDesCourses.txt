@@ -1,0 +1,26 @@
+fondue	1
+petits pois	1
+pates	756
+vin	8
+courgettes	5
+steack	11
+poulet	1
+onions	55
+fromages	5
+cordon bleu	3
+muscade	1
+saumon	1
+frites	2
+tomates	7
+nuggets	25
+poireaux	5
+oeuf	5
+saucisse	1
+lardon	5
+légumes	10
+semoule	1
+ketchup	8
+pomme de terre	6
+tomate	1
+lasagne	2
+moutarde	1

@@ -1,17 +1,17 @@
-pizza
-lasagne
-courgettes farcies
-pâtes maison
-semoule tomate saucisse
-saumon
-fondue
-tartiflète
-pâtes bolognaise
-pâtes carbonara
-quiche
-fondue de poireaux
-poulet moutarde
-tarte de légumes
-steack frites
-cordon bleu
-nuggets
+pizza,pizza.csv
+lasagne,lasagne.csv
+courgettes farcies,courgettes_farcies.csv
+pâtes maison,pates_maison.csv
+semoule tomate saucisse,semoule_tomate_saucisse.csv
+saumon,saumon.csv
+fondue,fondue.csv
+tartiflète,tartiflete.csv
+pâtes bolognaise,pates_bolognaise.csv
+pâtes carbonara,pates_carbonara.csv
+quiche,quiche.csv
+fondue de poireaux,fondue_de_poireaux.csv
+poulet moutarde,poulet_moutarde.csv
+tarte de légumes,tarte_de_legumes.csv
+steack frites,steack_frites.csv
+cordon bleu,cordon_bleu.csv
+nuggets,nuggets.csv
